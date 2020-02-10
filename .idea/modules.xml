@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou-parent.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou-services/changgou-services.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou-services/changgou-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou-services-api/changgou-services-api.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou-services-api/changgou-services-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou-services/changgou-services-goods/changgou-services-goods.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou-services/changgou-services-goods/changgou-services-goods.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou-services-api/changgou-services-goods-api/changgou-services-goods-api.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou-services-api/changgou-services-goods-api/changgou-services-goods-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou-web/changgou-web.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou-web/changgou-web.iml" />
     </modules>

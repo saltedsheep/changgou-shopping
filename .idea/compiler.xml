@@ -9,6 +9,7 @@
         <module name="changgou-common" />
         <module name="changgou-common-db" />
         <module name="changgou-eureka" />
+        <module name="changgou-services-goods" />
         <module name="changgou-services-goods-api" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="changgou-parent" target="1.8" />
       <module name="changgou-services" target="1.8" />
       <module name="changgou-services-api" target="1.8" />
+      <module name="changgou-services-goods" target="1.8" />
       <module name="changgou-services-goods-api" target="1.8" />
       <module name="changgou-web" target="1.8" />
     </bytecodeTargetLevel>
